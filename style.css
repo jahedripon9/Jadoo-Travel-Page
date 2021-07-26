@@ -1,0 +1,30 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Volkhov', serif; 
+    background: url(img/Decore.png) no-repeat top right; 
+    margin: 0;
+    padding: 0;
+}
+
+.poppins-font{
+    font-family: 'Poppins', sans-serif;
+}
+.volkhov-font{
+    font-family: 'Volkhov', serif; 
+}
+.Open-sans-font{
+    font-family: 'Open Sans', sans-serif;
+}
+.orange-color{
+    color: #DF6951;
+}
+.subscribe-bg{
+    background: #dfd7f972;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-radius: 20px;
+    
+    
+
+}
